@@ -1,0 +1,29 @@
+#part1{
+    width: 45%;
+    height: 350px;
+    
+    padding-bottom: 20px;
+    padding-top: 20px;
+    float: left;
+}
+#part1 img{
+    width: 60%;
+    height: 100%;
+    float:right;
+
+}
+#part2{
+    width: 50%;
+    height: 350px;
+    
+    float: right;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#container{
+    width: 80%;
+   
+   
+    margin: 0% auto;
+    
+}
